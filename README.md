@@ -3,6 +3,8 @@
 
 ### Description
 
+Made in December 2023.
+
 The goal of this project is to simulate the execution of a program in assembly on a processor.\
 The program will read a file in pseudo-binary `binaryFile.txt` (binary architecture chosen by us) 
 to simulate as closely as possible the execution of a program in the processor.\

@@ -1,0 +1,6 @@
+
+.idea/
+*/__pycache__/
+__azurite*.json
+__blobstorage*__/
+.vscode/
